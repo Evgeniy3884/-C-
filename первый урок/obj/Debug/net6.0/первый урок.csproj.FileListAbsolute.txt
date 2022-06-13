@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\C#\первый урок\bin\Debug\net6.0\первый урок.exe
+C:\Users\Евгений\Desktop\C#\первый урок\bin\Debug\net6.0\первый урок.deps.json
+C:\Users\Евгений\Desktop\C#\первый урок\bin\Debug\net6.0\первый урок.runtimeconfig.json
+C:\Users\Евгений\Desktop\C#\первый урок\bin\Debug\net6.0\первый урок.dll
+C:\Users\Евгений\Desktop\C#\первый урок\bin\Debug\net6.0\первый урок.pdb
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.dll
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\refint\первый урок.dll
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.pdb
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\первый урок.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\C#\первый урок\obj\Debug\net6.0\ref\первый урок.dll
