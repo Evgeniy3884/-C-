@@ -11,11 +11,13 @@
 // if( a > b )
 // {
 //     Console.WriteLine (" max a");
+//     Console.WriteLine (" min b");
 // }
 
 // else
 // {
 //     Console.WriteLine (" max b");
+//     Console.WriteLine (" min a");
 // }
 
 
@@ -46,13 +48,16 @@
 
 // 1.3 Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
-Console.WriteLine("введите первое число");
-int a = Convert.ToInt32(Console.ReadLine());
-if (a%2==1)
-    {
-    Console.WriteLine ("нечетное число");
-    }
-else
-{
-    Console.WriteLine ("четное число");
-}
+// Console.WriteLine("введите число");
+// int a = Convert.ToInt32(Console.ReadLine());
+// if (a%2==1)
+//     {
+//     Console.WriteLine ("нечетное число");
+//     }
+// else
+// {
+//     Console.WriteLine ("четное число");
+// }
+
+// 1.4 Напишите программу, которая на вход принимает число (N), 
+// а на выходе показывает все чётные числа от 1 до N.
